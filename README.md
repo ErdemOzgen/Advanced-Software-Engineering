@@ -9,7 +9,7 @@ TODO
 <br>
 [Table of Contents of Clean Code](#table-of-contents-of-clean-code)
 <br>
-[Table of Contents of Refactoring](#table-of-content-refactoring)
+[Table of Contents of Refactoring](#refactoring-notes)
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 # Pragmatic Programmer Notes 
 ## Table of Contents of Pragmatic Programmer
@@ -107,9 +107,10 @@ TODO
 - [Chapter 16 - Refactoring SerialDate](#chapter15)
 - [Chapter 17 - Smells and Heuristics](#chapter17)
 
+# Refactoring Notes
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-# Table of Content of Refactoring
+## Table of Content of Refactoring
 
 - [3. BAD SMELLS IN CODE](#3-bad-smells-in-code)
 	- [1. Duplicated code](#1-duplicated-code)
