@@ -9,9 +9,10 @@ TODO
 <br>
 [Table of Contents of Clean Code](#table-of-contents-of-clean-code)
 <br>
-[Table of Contents of Refactoring](#1-table-of-content-refactoring)
+[Table of Contents of Refactoring](#table-of-content-refactoring)
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-# Table of Contents of pragmatic programmer
+# Pragmatic Programmer Notes 
+## Table of Contents of Pragmatic Programmer
 
 - [Chapter 1. A Pragmatic Philosophy](#chapter-1-a-pragmatic-philosophy)
 	- [1.-The Cat Ate My Source Code](#1-the-cat-ate-my-source-code)
@@ -108,7 +109,7 @@ TODO
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-# 1. TABLE OF CONTENT of Refactoring
+# Table of Content of Refactoring
 
 - [3. BAD SMELLS IN CODE](#3-bad-smells-in-code)
 	- [1. Duplicated code](#1-duplicated-code)
