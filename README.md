@@ -10,6 +10,7 @@ Contributions: Issues, comments and pull requests are super welcome 😃
 There is a [Quick Reference](#quick-reference) at the end.
 # Book List
 [Table of Contents of pragmatic programmer](#table-of-contents-of-pragmatic-programmer)
+<br>
 [Table of Contents of Clean Code](#table-of-contents-of-clean-code)
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
