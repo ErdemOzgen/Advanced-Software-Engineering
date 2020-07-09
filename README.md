@@ -5274,3 +5274,8 @@ to
 
 * A class as implementing one idea become implementing two or three or ten.
 * Keep the Single Responsibility Principle.
+
+
+# Special Thanks
+This repo based on very good people that loves open source and teaching...
+JuanCrg90 and HugoMatilla again thanks guys...
