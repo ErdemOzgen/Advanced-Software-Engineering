@@ -2,12 +2,8 @@
 ![Book2image](ref.jpeg)
 ![Book3image](clean.jpeg)
 
-This is my summary of the The Pragmatic Programmer, by Andrew Hunt and David Thomas. I use it while learning and as quick reference. It is not intended to be an standalone substitution of the book so if you really want to learn the concepts here presented, buy and read the book and use this repository as a reference and guide.
+TODO
 
-If you are the publisher and think this repository should not be public, just write me an email at hugomatilla [at] gmail [dot] com and I will make it private.
-
-Contributions: Issues, comments and pull requests are super welcome 😃
-There is a [Quick Reference](#quick-reference) at the end.
 # Book List
 [Table of Contents of pragmatic programmer](#table-of-contents-of-pragmatic-programmer)
 <br>
