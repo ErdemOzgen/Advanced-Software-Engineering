@@ -17,7 +17,7 @@ This repo contains 3 essential books for coding industry. If you prepare for int
 # Pragmatic Programmer Notes 
 ## Table of Contents of Pragmatic Programmer
 <details>
-<summary>:bulb: Click for See Table of Contents of Pragmatic Programmer</summary>
+<summary>:bulb: Click for more </summary>
 	
 	
 - [Chapter 1. A Pragmatic Philosophy](/books/Pragmatic.md#chapter-1-a-pragmatic-philosophy)
@@ -98,7 +98,7 @@ This repo contains 3 essential books for coding industry. If you prepare for int
 
 ## Table of contents of Clean Code
 <details>
-<summary>:bulb: Click for See Table of contents of Clean Code</summary>
+<summary>:bulb: Click for more</summary>
 
 - [Chapter 1 - Clean Code](/books/cleanCode.md#chapter1)
 - [Chapter 2 - Meaningful Names](/books/cleanCode.md#chapter2)
@@ -126,7 +126,7 @@ This repo contains 3 essential books for coding industry. If you prepare for int
 
 ## Table of Content of Refactoring
 <details>
-<summary>:bulb: Click for See Table of Content of Refactoring </summary>
+<summary>:bulb: Click for more </summary>
 
 - [Book List](#book-list)
 - [Pragmatic Programmer Notes](#pragmatic-programmer-notes)
