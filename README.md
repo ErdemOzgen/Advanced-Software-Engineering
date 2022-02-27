@@ -1,6 +1,6 @@
-![Bookimage](pra.jpeg)
-![Book2image](ref.jpeg)
-![Book3image](clean.jpeg)
+![Bookimage](/img/pra.jpeg)
+![Book2image](/img/ref.jpeg)
+![Book3image](/img/clean.jpeg)
 
 This repo contains 3 essential books for coding industry. If you prepare for interview or want to be good programmer you __must__ read these book. I just summarize and collect other resources to you for easy look up and refresh the memory.
 
