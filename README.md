@@ -5286,6 +5286,7 @@ to
 * I - [Interface Segregation Principle](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design#interface-segregation-principle)
 * D - [Dependency Inversion Principle](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design#dependency-inversion-principle)
 
+[Breaking Dependencies: The SOLID Principles](https://youtu.be/RT-npV1JRKE)
 # Special Thanks
 This repo based on very good people that loves open source and teaching...
 JuanCrg90 and HugoMatilla again thanks guys...
