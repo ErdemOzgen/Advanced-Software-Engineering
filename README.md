@@ -128,17 +128,13 @@ This repo contains 3 essential books for coding industry. If you prepare for int
 <details>
 <summary>:bulb: Click for more </summary>
 
-- [Book List](#book-list)
-- [Pragmatic Programmer Notes](#pragmatic-programmer-notes)
-	- [Table of Contents of Pragmatic Programmer](#table-of-contents-of-pragmatic-programmer)
-- [Clean Code Notes](#clean-code-notes)
-	- [Table of contents of Clean Code](#table-of-contents-of-clean-code)
 - [Refactoring Notes](#refactoring-notes)
 	- [Table of Content of Refactoring](#table-of-content-of-refactoring)
-- [SOLID](#solid)
-- [Special Thanks](#special-thanks)
-	
+
 </details>
+
+	
+
 
 
 <!-- /TOC -->
