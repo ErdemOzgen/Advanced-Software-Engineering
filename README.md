@@ -17,7 +17,7 @@ This repo contains 3 essential books for coding industry. If you prepare for int
 # Pragmatic Programmer Notes 
 ## Table of Contents of Pragmatic Programmer
 <details>
-<summary>:bulb: Table of Contents of Pragmatic Programmer</summary>
+<summary>:bulb: Click for See Table of Contents of Pragmatic Programmer</summary>
 	
 	
 - [Chapter 1. A Pragmatic Philosophy](/books/Pragmatic.md#chapter-1-a-pragmatic-philosophy)
