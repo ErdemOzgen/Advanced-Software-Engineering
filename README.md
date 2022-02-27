@@ -16,7 +16,8 @@ This repo contains 3 essential books for coding industry. If you prepare for int
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 # Pragmatic Programmer Notes 
 ## Table of Contents of Pragmatic Programmer
-
+<details>
+<summary>:bulb: Table of Contents of Pragmatic Programmer</summary>
 - [Chapter 1. A Pragmatic Philosophy](/books/Pragmatic.md#chapter-1-a-pragmatic-philosophy)
 	- [1.-The Cat Ate My Source Code](/books/Pragmatic.md#1-the-cat-ate-my-source-code)
 	- [2.-Software Entropy](/books/Pragmatic.md#2-software-entropy)
@@ -84,6 +85,9 @@ This repo contains 3 essential books for coding industry. If you prepare for int
 		- [When to Refactor](/books/Pragmatic.md#when-to-refactor)
 		- [Cutting the Gordian Knot](/books/Pragmatic.md#cutting-the-gordian-knot)
 		- [Aspects of Testing](/books/Pragmatic.md#aspects-of-testing)
+
+
+</details>
 
 
 
