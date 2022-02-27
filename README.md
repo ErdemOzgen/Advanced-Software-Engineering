@@ -18,6 +18,8 @@ This repo contains 3 essential books for coding industry. If you prepare for int
 ## Table of Contents of Pragmatic Programmer
 <details>
 <summary>:bulb: Table of Contents of Pragmatic Programmer</summary>
+	
+	
 - [Chapter 1. A Pragmatic Philosophy](/books/Pragmatic.md#chapter-1-a-pragmatic-philosophy)
 	- [1.-The Cat Ate My Source Code](/books/Pragmatic.md#1-the-cat-ate-my-source-code)
 	- [2.-Software Entropy](/books/Pragmatic.md#2-software-entropy)
