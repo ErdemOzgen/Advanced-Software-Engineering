@@ -1,7 +1,7 @@
 ![Bookimage](/img/pra.jpeg)
 ![Book2image](/img/ref.jpeg)
 ![Book3image](/img/clean.jpeg)
-![GIF](https://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS)
+![GIF](https://gifs.com/gif/git-rebase-8qyzr5)
 
 This repo contains 3 essential books for coding industry. If you prepare for interview or want to be good programmer you __must__ read these book. I just summarize and collect other resources to you for easy look up and refresh the memory.
 
