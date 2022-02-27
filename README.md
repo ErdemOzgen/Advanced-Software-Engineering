@@ -125,8 +125,10 @@ This repo contains 3 essential books for coding industry. If you prepare for int
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 ## Table of Content of Refactoring
+<details>
+<summary>:bulb: Click for See Table of Content of Refactoring </summary>
 
-- [Book List](#book-list)
+	- [Book List](#book-list)
 - [Pragmatic Programmer Notes](#pragmatic-programmer-notes)
 	- [Table of Contents of Pragmatic Programmer](#table-of-contents-of-pragmatic-programmer)
 - [Clean Code Notes](#clean-code-notes)
@@ -301,6 +303,9 @@ This repo contains 3 essential books for coding industry. If you prepare for int
 	- [69. Convert Procedural Design to Objects](#69-convert-procedural-design-to-objects)
 	- [70. Separate Domain from Presentation](#70-separate-domain-from-presentation)
 	- [71. Extract Hierarchy](#71-extract-hierarchy)
+	
+</details>
+
 - [SOLID](#solid)
 - [Special Thanks](#special-thanks)
 
