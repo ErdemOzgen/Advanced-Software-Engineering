@@ -10,6 +10,8 @@ This repo contains 3 essential books for coding industry. If you prepare for int
 [Table of Contents of Clean Code](#table-of-contents-of-clean-code)
 <br>
 [Table of Contents of Refactoring](#refactoring-notes)
+<br>
+[Table of Contents of SOLID Principles](#SOLID)
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 # Pragmatic Programmer Notes 
 ## Table of Contents of Pragmatic Programmer
@@ -4085,6 +4087,17 @@ to
 * A class as implementing one idea become implementing two or three or ten.
 * Keep the Single Responsibility Principle.
 
+
+# SOLID
+
+* S - [Single-responsiblity Principle](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design#single-responsibility-principle)
+* O - [Open-closed Principle](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design#open-closed-principle)
+* L - [Liskov Substitution Principle](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design#liskov-substitution-principle)
+* I - [Interface Segregation Principle](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design#interface-segregation-principle)
+* D - [Dependency Inversion Principle](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design#dependency-inversion-principle)
+
+[Breaking Dependencies: The SOLID Principles](https://youtu.be/RT-npV1JRKE)
+[Solid by baeldung](https://www.baeldung.com/solid-principles)
 
 # Special Thanks
 This repo based on very good people that loves open source and teaching...
