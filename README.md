@@ -140,8 +140,6 @@ This repo contains 3 essential books for coding industry. If you prepare for int
 	
 </details>
 
-- [SOLID](#solid)
-- [Special Thanks](#special-thanks)
 
 <!-- /TOC -->
 
