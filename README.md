@@ -97,6 +97,8 @@ This repo contains 3 essential books for coding industry. If you prepare for int
 # Clean Code Notes
 
 ## Table of contents of Clean Code
+<details>
+<summary>:bulb: Click for See Table of contents of Clean Code</summary>
 
 - [Chapter 1 - Clean Code](/books/cleanCode.md#chapter1)
 - [Chapter 2 - Meaningful Names](/books/cleanCode.md#chapter2)
@@ -115,6 +117,9 @@ This repo contains 3 essential books for coding industry. If you prepare for int
 - [Chapter 15 - JUnit Internals](/books/cleanCode.md#chapter15)
 - [Chapter 16 - Refactoring SerialDate](/books/cleanCode.md#chapter15)
 - [Chapter 17 - Smells and Heuristics](/books/cleanCode.md#chapter17)
+	
+</details>
+
 
 # Refactoring Notes
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
