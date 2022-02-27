@@ -1,7 +1,7 @@
 ![Bookimage](/img/pra.jpeg)
 ![Book2image](/img/ref.jpeg)
 ![Book3image](/img/clean.jpeg)
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)	
+<img src="https://media.giphy.com/media/3oz8xSFr4Uw7d3K0JW/source.gif" align="right" width="400" height="250">
 
 This repo contains 3 essential books for coding industry. If you prepare for interview or want to be good programmer you __must__ read these book. I just summarize and collect other resources to you for easy look up and refresh the memory.
 
