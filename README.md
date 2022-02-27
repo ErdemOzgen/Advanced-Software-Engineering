@@ -152,6 +152,10 @@ This repo contains 3 essential books for coding industry. If you prepare for int
 [Breaking Dependencies: The SOLID Principles](https://youtu.be/RT-npV1JRKE)
 [Solid by baeldung](https://www.baeldung.com/solid-principles)
 
+
+# Refactoring Guru
+
+Refactoring guru is awesome website for refactoring and design patterns. Check out [website](https://refactoring.guru/)
 # Special Thanks
 This repo based on very good people that loves open source and teaching...
 JuanCrg90 and HugoMatilla again thanks guys...
