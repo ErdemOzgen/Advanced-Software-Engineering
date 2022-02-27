@@ -16,7 +16,7 @@ This repo contains 3 essential books for coding industry. If you prepare for int
 # Pragmatic Programmer Notes 
 ## Table of Contents of Pragmatic Programmer
 
-- [Chapter 1. A Pragmatic Philosophy](#books/Pragmatic.chapter-1-a-pragmatic-philosophy)
+- [Chapter 1. A Pragmatic Philosophy](/books/Pragmatic.md#chapter-1-a-pragmatic-philosophy)
 	- [1.-The Cat Ate My Source Code](#1-the-cat-ate-my-source-code)
 	- [2.-Software Entropy](#2-software-entropy)
 	- [3.-Stone Soup and Boiled Frogs](#3-stone-soup-and-boiled-frogs)
@@ -399,6 +399,7 @@ This repo contains 3 essential books for coding industry. If you prepare for int
 	- [69. Convert Procedural Design to Objects](#69-convert-procedural-design-to-objects)
 	- [70. Separate Domain from Presentation](#70-separate-domain-from-presentation)
 	- [71. Extract Hierarchy](#71-extract-hierarchy)
+- [SOLID](#solid)
 - [Special Thanks](#special-thanks)
 
 <!-- /TOC -->
