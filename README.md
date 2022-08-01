@@ -15,6 +15,8 @@ This repo contains 3 essential books for coding industry. If you prepare for int
 [Table of Contents of SOLID Principles](#SOLID)
 <br>
 [Table of Contents of Software Engineering at Google](books/softwareEngineringatGoogle/README.md)
+<br>
+[Git Commit Message Guidelines](notes/git-commit-guidelines.md)
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 # Pragmatic Programmer Notes 
 ## Table of Contents of Pragmatic Programmer
