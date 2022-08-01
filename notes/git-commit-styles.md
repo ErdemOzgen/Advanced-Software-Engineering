@@ -38,7 +38,10 @@ If applied, this commit will *\<your subject line here\>*
 * Do not include patch set-specific comments.
 Details for each point and good commit message examples can be found on https://wiki.openstack.org/wiki/GitCommitMessages#Information_in_commit_messages
 ### References in commit messages
-If the commit refers to an issue, add this information to the commit message header or body. e.g. the GitHub web platform automatically converts issue ids (e.g. #123) to links referring to the related issue. For issues tracker like Jira there are plugins which also converts Jira tickets, e.g. [Jirafy](https://github.com/square/jirafy) [Github Autolink References](https://github.blog/2019-10-14-introducing-autolink-references/) [Issue Tracking in Jira](https://deviniti.com/blog/enterprise-software/issue-tracking-jira/)
+If the commit refers to an issue, add this information to the commit message header or body. e.g. the GitHub web platform automatically converts issue ids (e.g. #123) to links referring to the related issue. For issues tracker like Jira there are plugins which also converts Jira tickets, e.g. 
+* [Jirafy](https://github.com/square/jirafy)
+* [Github Autolink References](https://github.blog/2019-10-14-introducing-autolink-references/)
+* [Issue Tracking in Jira](https://deviniti.com/blog/enterprise-software/issue-tracking-jira/)
     
 In header:
 ```
